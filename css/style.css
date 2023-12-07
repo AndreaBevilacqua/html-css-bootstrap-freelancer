@@ -6,4 +6,18 @@ header {
 .jumbotron {
     min-height: 450px;
     background-color: #1ABC9C;
+    margin-bottom: 40px;
+}
+
+.col {
+    border: 1px dashed red;
+    min-height: 300px;
+}
+
+.col-12 {
+    min-height: 300px;
+}
+
+.container {
+    margin-bottom: 10px;
 }
