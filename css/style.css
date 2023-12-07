@@ -1,4 +1,9 @@
 header {
-    min-height: 80px;
+    min-height: 90px;
     background-color: #2C3E50;
+}
+
+.jumbotron {
+    min-height: 450px;
+    background-color: #1ABC9C;
 }
