@@ -1,3 +1,18 @@
 .bg-color-dark {
     background-color: #2C3E50;
 }
+
+.bg-color-aqua {
+    background-color: #1ABC9C;
+}
+
+.white-line {
+    height: 4px;
+    background-color: white;
+    width: 90px;
+    border-radius: 10px;
+}
+
+#avatar {
+    max-width: 300px;
+}
